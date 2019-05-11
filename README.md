@@ -1,2 +1,2 @@
-# practicce-repository
+# practice-repository
 Just for practice
